@@ -30,6 +30,7 @@ Veewee::Session.declare({
     "chef.sh",
     #"puppet.sh",
     "vagrant.sh",
+    "install-scripts.sh",
     "virtualbox.sh",
     #"kvm.sh",
     #"vmfusion.sh",

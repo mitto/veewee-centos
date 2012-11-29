@@ -11,4 +11,4 @@ rpm -ivh http://pkgs.repoforge.org/rpmforge-release/rpmforge-release-0.5.2-2.el6
 rpm -ivh http://ftp.riken.jp/Linux/fedora/epel/6/i386/epel-release-6-7.noarch.rpm
 rpm -ivh http://rpms.famillecollet.com/enterprise/remi-release-6.rpm
 
-yum -y install htop multitail perl wget man vim ntp bind-utils telnet mlocate rpmdev-tools
+yum -y install htop multitail perl wget man vim ntp bind-utils telnet mlocate rpmdevtools
